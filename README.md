@@ -1,6 +1,6 @@
 # Parcel Management API
 
-This project is a Django REST API for managing parcel deliveries. It was created as part of the course ***65-41 Interschool Software Development*** at **Haute École de Gestion (HEG)**.
+This project is a Django REST API for managing parcel deliveries. It was created as part of the course ***65-41 Interschool Software Development*** at **Haute École de Gestion (HEG)**. test
 
 ## Features
 - **RESTful API** built with **Django REST framework** for managing orders and products.
