@@ -18,7 +18,7 @@ This project is a Django REST API for managing parcel deliveries. It was created
 ## Prerequisites
 - **Python 3.10+**
 - **Django 5.x**
-- **Django REST Framework**
+- **Django REST Framework** (DRF)
 - **pip** (Python package manager)
 - **Virtual environment** (`venv` recommended)
 
