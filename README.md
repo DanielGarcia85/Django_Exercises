@@ -31,8 +31,9 @@ python -m venv env
 env\Scripts\activate.bat  # Windows
 source env/bin/activate  # Mac/Linux
 ```
-- Install dependencies
+- Install Django and DRF
 ```shell
+pip install django
 pip install django djangorestframework
 ```
 - Initialize Django project and app
